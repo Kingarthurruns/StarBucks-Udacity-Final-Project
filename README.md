@@ -1,4 +1,4 @@
-# StarBucks-Udacity-Final-Project-
+# StarBucks-Udacity-Final-Project
 The problem can be formulated in to a binary classification problem, where there can be two possible outcome cases:
 1. A person will respond to an offer encoded as (1)
 2. A person will not respond to an offer encoded as (0)
